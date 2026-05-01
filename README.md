@@ -1,7 +1,7 @@
 # Apache Flink — YZV 322E Tool Presentation
 
 > **Course:** YZV 322E Applied Data Engineering — Spring 2026
-> **Student:** [Your Name] | [Your Student ID]
+> **Student:** Emre Aydoğmuş | 150220323
 
 ---
 
