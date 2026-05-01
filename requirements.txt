@@ -1,0 +1,5 @@
+# Python dependencies for running PyFlink examples locally (optional)
+# The Docker-based workflow does NOT require a local Python installation.
+# Install these only if you want to run scripts outside of Docker.
+
+apache-flink==1.18.1
